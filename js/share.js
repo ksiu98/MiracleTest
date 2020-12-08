@@ -1,6 +1,6 @@
-const url = 'https://';
+const url = 'https://ksiu98.github.io/MiracleTest/index.html';
 const title = '[오마이걸 미라클 테스트] 나의 미라클 점수는 몇점일까?? ';
-const hash = '%2310_things_test %233분이미지테스트 %23이미지테스트 ';
+const hash = ' ';
 
 const fb = () => {
   window.open('https://www.facebook.com/sharer/sharer.php?u='
