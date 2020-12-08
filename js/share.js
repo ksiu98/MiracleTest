@@ -1,6 +1,6 @@
 const url = 'https://ksiu98.github.io/MiracleTest/index.html';
 const title = '[오마이걸 미라클 테스트] 나의 미라클 점수는 몇점일까?? ';
-const hash = ' ';
+const hash = ' [오마이걸 미라클 테스트] 나의 미라클 점수는 몇점일까??';
 
 const fb = () => {
   window.open('https://www.facebook.com/sharer/sharer.php?u='
@@ -10,14 +10,7 @@ const fb = () => {
 }
 const tw = () => {
   let name = document.querySelector('.result').innerHTML;
-  switch (name) {
-    case '표범':
-    case '유니콘':
-      name += '이에요! ';
-      break;
-    default:
-      name += '예요! ';
-  }
+
   window.open('https://twitter.com/intent/tweet?text='
     + title + '%0A' + '저는 ' + name + '' + hash + '%0A' + url,
     'twittersharedialog', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');

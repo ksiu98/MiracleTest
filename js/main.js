@@ -5,7 +5,7 @@ const u_name = document.querySelector('input[type=text]');
 const wrap = document.getElementById('wrap');
 const tabletMQL = window.matchMedia("all and (min-width: 768px)");
 const pcMQL = window.matchMedia("all and (min-width: 1024px)");
-const ENDPOINT = 10;
+const ENDPOINT = 20;
 const select = [];
 let qIdx = -1;
 
@@ -53,15 +53,15 @@ const calcScore = () => {
 
 const sortResult = (point) => {
   let num = 0;
-  if (point <= 30) {
+  if (point <= 50) {
     num = 0;
-  } else if (point <= 35) {
+  } else if (point <= 60) {
     num = 1;
-  } else if (point <= 38) {
+  } else if (point <= 70) {
     num = 2;
-  } else if (point <= 42) {
+  } else if (point <= 80) {
     num = 3;
-  } else if (point <= 45) {
+  } else if (point <= 90) {
     num = 4;
   } else {
     num = 5;
@@ -178,7 +178,7 @@ const goNext = () => {
   const qNum = qnaList[qIdx];
   const q = document.querySelector('.q');
 
-  status.style.width = (ENDPOINT * (qIdx + 1)) + '%';
+  status.style.width = (5 * (qIdx + 1)) + '%';
   q.innerHTML = qNum.q;
   qna.style.animation =
     'fade-in 0.3s ease-in-out 0.4s forwards, ' +
