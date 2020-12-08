@@ -204,35 +204,35 @@ const infoList = [
   {
     from: 51,
     to: 60,
-    mLeft: '60%',
+    mLeft: '57%',
     name: '병아린',
     desc: '조금만더!!'
   },
   {
     from: 61,
     to: 70,
-    mLeft: '70%',
+    mLeft: '64%',
     name: '효토끼',
     desc: '더더더더더더더더'
   },
   {
     from: 71,
     to: 80,
-    mLeft: '80%',
+    mLeft: '72%',
     name: '마늘공주',
     desc: '마늘만큼 오마이걸 지식이 들어잇군요!!'
   },
   {
     from: 81,
     to: 90,
-    mLeft: '90%',
+    mLeft: '80%',
     name: '똑비니',
     desc: '조금만 더 맞추면 호랑이가 됩니다!'
   },
   {
     from: 91,
     to: 100,
-    mLeft: '95%',
+    mLeft: '88%',
     name: '죠랑이',
     desc: '오마이걸에 관해서는 누구보다 잘 알고있는 미라클!!'
   }
