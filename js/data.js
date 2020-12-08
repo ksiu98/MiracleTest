@@ -21,7 +21,7 @@ const qnaList = [
   },
   {
     q: '3. 다음곡 가사초성을 보기중에서 찾으시오' +
-        '\nㄴ ㅇㅇ ㅅㅈㅎ ㅎㅈㅁㅇ ㅈㅅㄱ ㅇㅇ',
+        'ㄴ ㅇㅇ ㅅㅈㅎ ㅎㅈㅁㅇ ㅈㅅㄱ ㅇㅇ',
     a: [
       { answer: 'a. 불꽃놀이', score: 2 },
       { answer: 'b. 숲의아이', score: 2 },
@@ -92,6 +92,17 @@ const qnaList = [
   },
   {
     q: '10. 멤버를 나이순으로 정렬할때 4번째로 나이가 많은 멤버는?',
+    a: [
+      { answer: 'a. 지호', score: 2 },
+      { answer: 'b. 아린', score: 2 },
+      { answer: 'c. 승희', score: 5 },
+      { answer: 'd. 유아', score: 2 },
+      { answer: 'e. 효정', score: 2 },
+      { answer: 'f. 비니', score: 2 },
+      { answer: 'g. 미미', score: 2 }  ]
+  },
+  {
+    q: '11. 멤버를 나이순으로 정렬할때 4번째로 나이가 많은 멤버는?',
     a: [
       { answer: 'a. 지호', score: 2 },
       { answer: 'b. 아린', score: 2 },
