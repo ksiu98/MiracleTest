@@ -121,7 +121,13 @@
           <span class="band"></span>
         </a>
       </div>
-      <button onclick=javascript:copy() class="btn">링크 복사하기</button>
+      <script>
+        function answertable(){
+          document.getElementById('abc').innerHTML='<img src="img/answertable.png">'
+        }
+      </script>
+      <p id="abc">정오표를 보고 싶다면 밑의 버튼을 클릭하세요!</p><br>
+      <button type="button" onclick=answertable()>정오표 보기</button>
       <hr>
       <div id="intro-box">
         <div class="pro_pic"></div>
