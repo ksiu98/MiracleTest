@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="사이트 방문자수 추적 태그 삽입">
-      <change beforePath="$PROJECT_DIR$/css/qna.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/qna.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/result.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/answertable.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/answertable.png" afterDir="false" />
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="사진 및 음악 문제 1차 버전">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mediadesc.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mediadesc.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
       <workItem from="1607599889159" duration="3015000" />
       <workItem from="1607844318642" duration="21630000" />
       <workItem from="1607877516915" duration="6433000" />
-      <workItem from="1607921486783" duration="24745000" />
+      <workItem from="1607921486783" duration="26372000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -171,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607517174703</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="사진 및 음악 문제 1차 버전">
+      <created>1608004123745</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608004123745</updated>
+    </task>
+    <task id="LOCAL-00015" summary="사진 및 음악 문제 1차 버전">
+      <created>1608004134841</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608004134841</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,16 +209,18 @@
     <MESSAGE value="정오표 추가" />
     <MESSAGE value="정오표 버튼" />
     <MESSAGE value="사이트 방문자수 추적 태그 삽입" />
-    <option name="LAST_COMMIT_MESSAGE" value="사이트 방문자수 추적 태그 삽입" />
+    <MESSAGE value="사진 및 음악 문제 1차 버전" />
+    <option name="LAST_COMMIT_MESSAGE" value="사진 및 음악 문제 1차 버전" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="342" y="272" key="Vcs.Push.Dialog.v2" timestamp="1607517221855">
-      <screen x="0" y="23" width="1792" height="1023" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1608004148365">
+      <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="342" y="272" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1023@0.23.1792.1023" timestamp="1607517221855" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1024@0.23.1792.1024" timestamp="1607400309526" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1026@0.23.1792.1026" timestamp="1607423017204" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1028@0.23.1792.1028" timestamp="1607430408971" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1030@0.23.1792.1030" timestamp="1608004148365" />
     <state x="363" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607403244462">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
