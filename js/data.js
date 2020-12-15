@@ -1,6 +1,6 @@
 const qnaList = [
   {
-    q: '1. 다음중 [CHECKMATE] 가사를 고르시오?',
+    q: '1. 다음중 [CHECKMATE] 가사를 고르시오',
     a: [
       { answer: 'a. ㅁㄹ ㅇㄹ ㅇㅈㅅ ㅋㅋㄴ ㅎ ㅁㄱ', score: 2 },
       { answer: 'b. ㅇㅁㅋ ㅅㅊㄱ ㅇㄱㄹ ㄴ ㅎㅅ ㅎㄴㅈㅇ ㄴㄹ ㅇ', score: 2 },
@@ -14,9 +14,9 @@ const qnaList = [
     a: [
       { answer: 'a. 너와 나의 시대', score: 2 },
       { answer: 'b. 기억해', score: 3 },
-      { answer: 'c. I found love', score: 2 },
+      { answer: 'c. I FOUND LOVE', score: 2 },
       { answer: 'd. Je T\'aime', score: 2 },
-      { answer: 'e. I know', score: 5 }
+      { answer: 'e. I KNOW', score: 5 }
     ]
   },
   {
@@ -30,7 +30,7 @@ const qnaList = [
     ]
   },
   {
-    q: '4. 살짝 설렜어(Nonstop)에서 나[na]는 총 몇번 들리는가?',
+    q: '4. 살짝 설렜어(NONSTOP)에서 나[na]는 총 몇번 들리는가?',
     a: [
       { answer: 'a. 40', score: 2 },
       { answer: 'b. 41', score: 2 },
@@ -116,7 +116,7 @@ const qnaList = [
       { answer: 'g. 미미', score: 2 }  ]
   },
   {
-    q: '12. 다음중 [Remember me]의 가사를 고르시오',
+    q: '12. 다음중 [REMEMBER ME]의 가사를 고르시오',
     a: [
       { answer: 'a. ㄴㅇ ㅅㄱ ㄲ ㄱㅇㄷ ㄸㄷ ㄱㄱㅇ ㅇㄴ ㄱ ㅂㅁ', score: 2 },
       { answer: 'b. ㄱㅅ ㄷㅁㄱㅈ ㅁㄱ ㅇㅈ ㄴㅇ ㅅㄹ ㅇㄱ ㄷㅇㅈ', score: 2 },
