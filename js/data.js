@@ -1,22 +1,24 @@
 const qnaList = [
   {
-    q: '1. 다음중 [CHECKMATE] 가사를 고르시오',
+    q: '1. 다음을 듣고 알맞은 곡을 고르시오',
     a: [
-      { answer: 'a. ㅁㄹ ㅇㄹ ㅇㅈㅅ ㅋㅋㄴ ㅎ ㅁㄱ', score: 2 },
-      { answer: 'b. ㅇㅁㅋ ㅅㅊㄱ ㅇㄱㄹ ㄴ ㅎㅅ ㅎㄴㅈㅇ ㄴㄹ ㅇ', score: 2 },
-      { answer: 'c. ㄴ ㅇㅅ ㅍㄹ ㅂㄹ ㅈ ㅅㅇㅂ', score: 5 },
-      { answer: 'd. ㅂㄹ ㅂㅂㄹ ㅂㅂㄹ ㅂㅂㄹ ㅂ', score: 2 }
-
+      { answer: 'a. 다섯 번째 계절', score: 3 },
+      { answer: 'b. 소나기', score: 2 },
+      { answer: 'c. 비밀정원', score: 5 },
+      { answer: 'd. B612', score: 2 }
     ]
+
   },
   {
-    q: '2. 다음 가사를 포함하는 곡은? [ㅈㄱ ㄴㅇㄷ ㄱㅊㅇ ㅇㅇ ㅇ ㅂ ㅍㅇ]',
+    q: '2. 다음 사진의 주인공은?',
     a: [
-      { answer: 'a. 너와 나의 시대', score: 2 },
-      { answer: 'b. 기억해', score: 3 },
-      { answer: 'c. I FOUND LOVE', score: 2 },
-      { answer: 'd. Je T\'aime', score: 2 },
-      { answer: 'e. I KNOW', score: 5 }
+      { answer: 'a. 지호', score: 2 },
+      { answer: 'b. 아린', score: 2 },
+      { answer: 'c. 승희', score: 2 },
+      { answer: 'd. 유아', score: 5 },
+      { answer: 'e. 효정', score: 2 },
+      { answer: 'f. 비니', score: 2 },
+      { answer: 'g. 미미', score: 2 }
     ]
   },
   {
@@ -43,11 +45,11 @@ const qnaList = [
   {
     q: '5. 다음을 듣고 알맞은 곡을 고르시오',
     a: [
-      { answer: 'a. 다섯 번째 계절', score: 3 },
-      { answer: 'b. 소나기', score: 2 },
-      { answer: 'c. 비밀정원', score: 5 },
-      { answer: 'd. B612', score: 2 }
-    ]
+      { answer: 'a. I FOUND LOVE', score: 2 },
+      { answer: 'b. SIXTEEN', score: 2 },
+      { answer: 'c. ILLUSION', score: 5 },
+      { answer: 'd. TIC TOC', score: 2 }  ]
+
   },
   {
     q: '6. 다음 사진은 넘어지면서 까지 웃는 효정의 사진이다. 이 날 넘어진 멤버가 한명 더 있는데, 누구인지 고르시오.',
@@ -116,13 +118,13 @@ const qnaList = [
       { answer: 'g. 미미', score: 2 }  ]
   },
   {
-    q: '12. 다음중 [REMEMBER ME]의 가사를 고르시오',
+    q: '12. 다음중 오마이걸 역대 콘서트 이름으로 적절하지 않은것은?',
     a: [
-      { answer: 'a. ㄴㅇ ㅅㄱ ㄲ ㄱㅇㄷ ㄸㄷ ㄱㄱㅇ ㅇㄴ ㄱ ㅂㅁ', score: 2 },
-      { answer: 'b. ㄱㅅ ㄷㅁㄱㅈ ㅁㄱ ㅇㅈ ㄴㅇ ㅅㄹ ㅇㄱ ㄷㅇㅈ', score: 2 },
-      { answer: 'c. ㄱㄷㅎㄷ ㄷㅈ ㅅㅅㅇ ㄴ ㅁㅇ ㅂㄲㄹㅇ', score: 2 },
-      { answer: 'd. ㄱㅅㄹ ㅇ ㅌㄹ ㅂㅂ ㄷㅇㄱㄷ ㄱㄱ ㄱ ㅈㄹㅈㅇ', score: 5 },
-      { answer: 'e. ㄷ ㄷ ㄷ ㄷ ㄷ ㄷㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ', score: 2 }  ]
+      { answer: 'a. 봄동화', score: 5 },
+      { answer: 'b. 여름동화', score: 2 },
+      { answer: 'c. 가을동화', score: 2 },
+      { answer: 'd. 겨울동화', score: 2 },
+       ]
   },
   {
     q: '13. 앞에서 살짝설렜어에서 \'나\'가 몇 번 들리는지 풀었는데, 그러면 [바나나 알러지 원숭이]에서는?',
@@ -176,24 +178,23 @@ const qnaList = [
     ]
   },
   {
-    q: '18. 다음을 듣고 알맞은 곡을 고르시오',
+    q: '18. 다음중 [CHECKMATE] 가사를 고르시오',
     a: [
-      { answer: 'a. I FOUND LOVE', score: 2 },
-      { answer: 'b. SIXTEEN', score: 2 },
-      { answer: 'c. ILLUSION', score: 5 },
-      { answer: 'd. TIC TOC', score: 2 }  ]
+      { answer: 'a. ㄷ ㄷ ㄷ ㄷ ㄷ ㄷㄷ ㄷ ㄷ ㄷ ', score: 2 },
+      { answer: 'b. ㄴㄴ ㅂㄴㄴ ㅇㄹㅈ ㅇㅅㅇ', score: 2 },
+      { answer: 'c. ㅈㄷㄹ ㄴㅇ ㅂㄲ ㅇㄹ ㄱㄹ ㄴ ㅁㅈ ㅅㅈㅎ', score: 5 },
+      { answer: 'd. ㅂㄹ ㅂㅂㄹ ㅂㅂㄹ ㅂㅂㄹ ㅂ', score: 2 }
+
+    ]
   },
   {
-    q: '19. 다음 사진의 주인공은?',
+    q: '19. 오마이걸 공식 팬클럽 미라클은 몇기 까지 현재 공개 되었는지 고르시오.',
     a: [
-      { answer: 'a. 지호', score: 2 },
-      { answer: 'b. 아린', score: 2 },
-      { answer: 'c. 승희', score: 2 },
-      { answer: 'd. 유아', score: 5 },
-      { answer: 'e. 효정', score: 2 },
-      { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }
-    ]
+      { answer: 'a. 1기', score: 2 },
+      { answer: 'b. 2기', score: 2 },
+      { answer: 'c. 3기', score: 5 },
+      { answer: 'd. 4기', score: 2 }]
+
   },
   {
     q: '20. 보너스 점수는 얼만큼 받고 싶나요? 후하게 드립니다.',

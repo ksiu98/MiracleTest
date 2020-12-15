@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="자잘한 수정">
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="버튼 짤림 및 오타 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/qna.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/qna.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
     </list>
@@ -77,7 +76,9 @@
       <workItem from="1607844318642" duration="21630000" />
       <workItem from="1607877516915" duration="6433000" />
       <workItem from="1607921486783" duration="27547000" />
-      <workItem from="1608009768652" duration="418000" />
+      <workItem from="1608009768652" duration="1546000" />
+      <workItem from="1608011644102" duration="1251000" />
+      <workItem from="1608012907155" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608007105956</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="버튼 짤림 및 오타 수정">
+      <created>1608010223805</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608010223805</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,16 +236,22 @@
     <MESSAGE value="사진 및 음악 문제 1차 버전" />
     <MESSAGE value="사진 및 음악 문제 수정" />
     <MESSAGE value="자잘한 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="자잘한 수정" />
+    <MESSAGE value="버튼 짤림 및 오타 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="버튼 짤림 및 오타 수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1608007109220">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state x="648" y="245" key="RollbackChangesDialog" timestamp="1608011678388">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="648" y="245" key="RollbackChangesDialog/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608011678388" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1608010227865">
+      <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="342" y="272" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1023@0.23.1792.1023" timestamp="1607517221855" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1024@0.23.1792.1024" timestamp="1607400309526" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1026@0.23.1792.1026" timestamp="1607423017204" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1028@0.23.1792.1028" timestamp="1607430408971" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608010227865" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1028@0.23.1792.1028" timestamp="1608007109220" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1030@0.23.1792.1030" timestamp="1608004148365" />
     <state x="363" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607403244462">
