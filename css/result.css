@@ -144,6 +144,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6f9ff', end
   font-weight: 500;
   transition: background-color 0.2s ease-in-out;
 }
+
 .btn:hover {
   background: rgba(167, 105, 218, 1.0);
 }

@@ -69,6 +69,11 @@ const sortResult = (point) => {
   return num;
 }
 
+
+
+
+
+
 const goResult = () => {
   if (pcMQL.matches) {
     console.log('PC');
@@ -89,6 +94,7 @@ const goResult = () => {
   const res_img_div = document.querySelector('.art');
   const animal = document.querySelector('.result');
   const desc = document.querySelector('.res');
+
 
   pTitle.innerHTML = u_name.value + ' 님의 점수는...';
   res_point.innerHTML = point + '점';

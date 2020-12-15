@@ -90,7 +90,117 @@
       <div class="status-bar">
         <div class="status"></div>
       </div>
-      <div class="q box"></div>
+      <div class="q box"></div><br>
+      <div class="" style="text-align: center;">
+        <img class="pic" src="img/mediadesc.png" width=100% height=auto />
+        <audio class="aud" src="" style="display: none" autoplay controls></audio>
+        <br><br>
+        <div class="btnbox">
+          <button class="cancel">접기</button>
+          <button class="mediadesc">설명</button>
+          <button class="pic1">3번</button>
+          <button class="aud1">5번</button>
+          <button class="pic6">6번</button>
+          <button class="pic7">9번</button>
+          <button class="aud2">10번</button>
+          <button class="pic2">11번</button>
+          <button class="pic3">14번</button>
+          <button class="aud3">15번</button>
+          <button class="pic4">16번</button>
+          <button class="aud4">18번</button>
+          <button class="pic5">19번</button>
+        </div>
+      </div>
+
+      <script>
+        let pic = document.querySelector('.pic');
+        let aud = document.querySelector('.aud');
+
+        document.querySelector('.cancel').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', '');
+            aud.setAttribute('src', '');
+            return;
+          }
+        });
+        document.querySelector('.mediadesc').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/mediadesc.png');
+            return;
+          }
+        });
+
+        document.querySelector('.pic1').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/pic1.png');
+            return;
+          }
+        });
+
+        document.querySelector('.pic2').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/pic2.png');
+            return;
+          }
+        });
+
+        document.querySelector('.pic3').addEventListener('click', function (idx){
+          if (idx) {
+              pic.setAttribute('src', 'img/pic3.png');
+            return;
+          }
+        });
+
+        document.querySelector('.pic4').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/pic4.png');
+            return;
+          }
+        });
+
+        document.querySelector('.pic5').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/pic5.png');
+            return;
+          }
+        });
+        document.querySelector('.pic6').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/pic6.png');
+            return;
+          }
+        });
+        document.querySelector('.pic7').addEventListener('click', function (idx){
+          if (idx) {
+            pic.setAttribute('src', 'img/pic7.png');
+            return;
+          }
+        });
+        document.querySelector('.aud1').addEventListener('click', function (idx){
+          if (idx) {
+              aud.setAttribute('src', 'img/aud1.mp3');
+            return;
+          }
+        });
+         document.querySelector('.aud2').addEventListener('click', function (idx){
+          if (idx) {
+              aud.setAttribute('src', 'img/aud2.mp3');
+            return;
+          }
+        });
+         document.querySelector('.aud3').addEventListener('click', function (idx){
+          if (idx) {
+              aud.setAttribute('src', 'img/aud3.mp3');
+            return;
+          }
+        });
+         document.querySelector('.aud4').addEventListener('click', function (idx){
+          if (idx) {
+              aud.setAttribute('src', 'img/aud4.mp3');
+            return;
+          }
+        });
+      </script>
       <div class="answer"></div>
     </section>
     <section id="calc">
@@ -138,7 +248,7 @@
         }
       </script>
       <p id="abc">정오표를 보고 싶다면 밑의 버튼을 클릭하세요!</p><br>
-      <button class="go-origin btn" onclick=answertable()>정오표 보기</button>
+      <button class="go-origin btn" onclick=answertable()>정답 보기</button>
       <hr>
       <div id="intro-box">
         <div class="pro_pic"></div>
