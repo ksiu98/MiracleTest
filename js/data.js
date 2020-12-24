@@ -1,16 +1,47 @@
 const qnaList = [
   {
-    q: '1. 다음을 듣고 알맞은 곡을 고르시오',
+    q: '1. 그룹명으로 [오마이걸]이라는 이름을 지은 이유는?',
     a: [
-      { answer: 'a. 다섯 번째 계절', score: 3 },
-      { answer: 'b. 소나기', score: 2 },
-      { answer: 'c. 비밀정원', score: 5 },
-      { answer: 'd. B612', score: 2 }
+      { answer: 'a. 이원민 대표 및 회사 직원들의 추천', score: 2 },
+      { answer: 'b. 미라클들의 마이걸이 되기 위해', score: 3 },
+      { answer: 'c. 대중들의 마이걸이 되기 위해', score: 5 },
+      { answer: 'd. 소속사의 공개 작명 이벤트 1등작품 선정', score: 2 }
     ]
 
   },
   {
-    q: '2. 다음 사진의 주인공은?',
+    q: '2. 오마이걸 공식 응원봉의 정식 명칭은?',
+    a: [
+      { answer: 'a. 오 마이 봉', score: 2 },
+      { answer: 'b. 디어 마이 봉', score: 5 },
+      { answer: 'c. 디마봉', score: 2 }
+    ]
+  },
+  {
+    q: '3. 다음중 멤버생일 년도로 적절하지 않은것은?',
+    a: [
+      { answer: 'a. 1994년', score: 2 },
+      { answer: 'b. 1995년', score: 2 },
+      { answer: 'c. 1996년', score: 2 },
+      { answer: 'd. 1997년', score: 2 },
+      { answer: 'e. 1998년', score: 5 },
+      { answer: 'f. 1999년', score: 2 }
+
+    ]
+  },
+  {
+    q: '4. 다음중 승희가 참여한 프로그램(수록곡 포함)으로 적절하지 않은것은?',
+    a: [
+      { answer: 'a. 복면가왕', score: 2 },
+      { answer: 'b. 불후의 명곡', score: 2 },
+      { answer: 'c. 스타트업', score: 2 },
+      { answer: 'd. 비니와 오빠들', score: 5 },
+      { answer: 'e. 투유 프로젝트', score: 2 }
+
+    ]
+  },
+  {
+    q: '5. 다음은 멤버들의 동물잠옷 의상이다. 이때 고양이를 입은 멤버는?',
     a: [
       { answer: 'a. 지호', score: 2 },
       { answer: 'b. 아린', score: 2 },
@@ -18,145 +49,46 @@ const qnaList = [
       { answer: 'd. 유아', score: 5 },
       { answer: 'e. 효정', score: 2 },
       { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }
-    ]
-  },
-  {
-    q: '3. 다음 사진의 주인공은?',
-    a: [
-      { answer: 'a. 아린', score: 2 },
-      { answer: 'b. 지호', score: 5 },
-      { answer: 'c. 비니', score: 2 },
-      { answer: 'd. 승희', score: 2 },
-      { answer: 'e. 효정', score: 2 }
-    ]
-  },
-  {
-    q: '4. 살짝 설렜어(NONSTOP)에서 나[na]는 총 몇번 들리는가?',
-    a: [
-      { answer: 'a. 40', score: 2 },
-      { answer: 'b. 41', score: 2 },
-      { answer: 'c. 42', score: 2 },
-      { answer: 'd. 43', score: 5 },
-      { answer: 'e. 44', score: 2 }
-
-    ]
-  },
-  {
-    q: '5. 다음을 듣고 알맞은 곡을 고르시오',
-    a: [
-      { answer: 'a. I FOUND LOVE', score: 2 },
-      { answer: 'b. SIXTEEN', score: 2 },
-      { answer: 'c. ILLUSION', score: 5 },
-      { answer: 'd. TIC TOC', score: 2 }  ]
+      { answer: 'g. 미미', score: 2 }  ]
 
   },
   {
-    q: '6. 다음 사진은 넘어지면서 까지 웃는 효정의 사진이다. 이 날 넘어진 멤버가 한명 더 있는데, 누구인지 고르시오.',
-    a: [
-      { answer: 'a. 지호', score: 2 },
-      { answer: 'b. 비니', score: 2 },
-      { answer: 'c. 아린', score: 5 },
-      { answer: 'd. 유아', score: 2 }
-
-    ]
-  },
-  {
-    q: '7. 점수 랜덤박스',
-    a: [
-      { answer: 'a. 안냥?', score: 1 },
-      { answer: 'b. 안냥?', score: 2 },
-      { answer: 'c. 안냥?', score: 4 },
-      { answer: 'd. 안냥?', score: 5 },
-      { answer: 'e. 안냥?', score: 3 }
-    ]
-  },
-  {
-    q: '8. 다음중 MBTI유형이 ESFJ인 멤버는?',
+    q: '6. 다음은 멤버들의 할로윈 의상이다. 이때 저승사자 멤버는?',
     a: [
       { answer: 'a. 지호', score: 2 },
       { answer: 'b. 아린', score: 2 },
-      { answer: 'c. 승희', score: 2 },
+      { answer: 'c. 승희', score: 5 },
       { answer: 'd. 유아', score: 2 },
-      { answer: 'e. 효정', score: 5 },
+      { answer: 'e. 효정', score: 2 },
       { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }
+      { answer: 'g. 미미', score: 2 }  ]
+  },
+  {
+    q: '7. 본인의 최애 멤버를 고르시오',
+    a: [
+      { answer: 'a. 지호', score: 5 },
+      { answer: 'b. 아린', score: 5 },
+      { answer: 'c. 승희', score: 5 },
+      { answer: 'd. 유아', score: 5 },
+      { answer: 'e. 효정', score: 5 },
+      { answer: 'f. 비니', score: 5 },
+      { answer: 'g. 미미', score: 5 },
+      { answer: 'h. 오마이걸 전원', score: 5 },
+      { answer: 'i. 원민공듀', score: 1 }
+    ]
+  },
+  {
+    q: '8. 다음을 듣고 알맞은 곡 명을 고르시오',
+    a: [
+      { answer: 'a. Say No More', score: 2 },
+      { answer: 'b. 한 발짝 두 발짝', score: 5 },
+      { answer: 'c. I FOUND LOVE', score: 2 },
+      { answer: 'd. 메아리', score: 2 },
+      { answer: 'e. Illusion', score: 2 }
     ]
   },
   {
     q: '9. 다음 사진의 주인공은?',
-    a: [
-      { answer: 'a. 지호', score: 2 },
-      { answer: 'b. 아린', score: 2 },
-      { answer: 'c. 승희', score: 2 },
-      { answer: 'd. 유아', score: 2 },
-      { answer: 'e. 효정', score: 2 },
-      { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 5 }
-    ]
-  },
-  {
-    q: '10. 다음 파트를 부르는 멤버는?',
-    a: [
-      { answer: 'a. 지호', score: 2 },
-      { answer: 'b. 아린', score: 2 },
-      { answer: 'c. 승희', score: 2 },
-      { answer: 'd. 유아', score: 5 },
-      { answer: 'e. 효정', score: 2 },
-      { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }  ]
-  },
-  {
-    q: '11. 다음 사진의 주인공은?',
-    a: [
-        { answer: 'a. 지호', score: 2 },
-      { answer: 'b. 아린', score: 2 },
-      { answer: 'c. 승희', score: 2 },
-      { answer: 'd. 유아', score: 2 },
-      { answer: 'e. 효정', score: 5 },
-      { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }  ]
-  },
-  {
-    q: '12. 다음중 오마이걸 역대 콘서트 이름으로 적절하지 않은것은?',
-    a: [
-      { answer: 'a. 봄동화', score: 5 },
-      { answer: 'b. 여름동화', score: 2 },
-      { answer: 'c. 가을동화', score: 2 },
-      { answer: 'd. 겨울동화', score: 2 },
-       ]
-  },
-  {
-    q: '13. 앞에서 살짝설렜어에서 \'나\'가 몇 번 들리는지 풀었는데, 그러면 [바나나 알러지 원숭이]에서는?',
-    a: [
-      { answer: 'a. 68', score: 2 },
-      { answer: 'b. 69', score: 2 },
-      { answer: 'c. 70', score: 2 },
-      { answer: 'd. 71', score: 5 },
-      { answer: 'e. 80', score: 2 }  ]
-  },
-  {
-    q: '14. 다음 사진의 주인공은?',
-    a: [
-      { answer: 'a. 지호', score: 5 },
-      { answer: 'b. 아린', score: 2 },
-      { answer: 'c. 승희', score: 2 },
-      { answer: 'd. 유아', score: 2 },
-      { answer: 'e. 효정', score: 2 },
-      { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }
-    ]
-  },
-  {
-    q: '15. 다음은 [WINDY DAY]중 어느 한 소절이다. 원래는 진이 파트였지만 현재는 누구 파트로 바꼈는가?',
-    a: [
-      { answer: 'a. 아린', score: 2 },
-      { answer: 'b. 비니', score: 5 },
-      { answer: 'c. 미미', score: 2 },
-      { answer: 'd. 승희', score: 2 }]
-  },
-  {
-    q: '16. 다음 사진의 주인공은?',
     a: [
       { answer: 'a. 지호', score: 2 },
       { answer: 'b. 아린', score: 2 },
@@ -168,42 +100,111 @@ const qnaList = [
     ]
   },
   {
-    q: '17. 다음 가사를 포함하는 곡은? [ㅇㄴㅌㄱ ㅇㄹ ㅋㄴ ㅁㄴㄴ ㅇㅋㅎㅋㅋ]',
+    q: '10. 다음을 듣고 이 곡이 출시된 계절을 고르시오',
     a: [
-      { answer: 'a. HANABI', score: 2 },
-      { answer: 'b. SECRET GARDEN', score: 2 },
-      { answer: 'c. NONSTOP', score: 2 },
-      { answer: 'd. ETOILE', score: 5 },
-      { answer: 'e. BUNGEE', score: 2 }
+      { answer: 'a. 봄', score: 2 },
+      { answer: 'b. 여름', score: 2 },
+      { answer: 'c. 가을', score: 2 },
+      { answer: 'd. 겨울', score: 5 }
     ]
   },
   {
-    q: '18. 다음중 [CHECKMATE] 가사를 고르시오',
+    q: '11. 다음 사진이 나온 뮤직비디오는?',
     a: [
-      { answer: 'a. ㄷ ㄷ ㄷ ㄷ ㄷ ㄷㄷ ㄷ ㄷ ㄷ ', score: 2 },
-      { answer: 'b. ㄴㄴ ㅂㄴㄴ ㅇㄹㅈ ㅇㅅㅇ', score: 2 },
-      { answer: 'c. ㅈㄷㄹ ㄴㅇ ㅂㄲ ㅇㄹ ㄱㄹ ㄴ ㅁㅈ ㅅㅈㅎ', score: 5 },
-      { answer: 'd. ㅂㄹ ㅂㅂㄹ ㅂㅂㄹ ㅂㅂㄹ ㅂ', score: 2 }
-
+        { answer: 'a. CUPID', score: 2 },
+      { answer: 'b. LIAR LIAR', score: 2 },
+      { answer: 'c. 비밀정원', score: 5 },
+      { answer: 'd. COLORING BOOK', score: 2 },
+      { answer: 'e. 다섯번째 계절', score: 2 },
+  ]
+  },
+  {
+    q: '12. 다음중 중국어로 발매된 곡은?',
+    a: [
+      { answer: 'a. 살짝 설렜어', score: 2 },
+      { answer: 'b. LIAR LIAR', score: 5 },
+      { answer: 'c. BUNGEE', score: 2 },
+      { answer: 'd. 다섯번째 계절', score: 2 },
+       ]
+  },
+  {
+    q: '13. 다음중 성질이 다른 하나를 고르시오',
+    a: [
+      { answer: 'a. BUNGEE', score: 2 },
+      { answer: 'b. 화이트', score: 2 },
+      { answer: 'c. SNOW BALL', score: 2 },
+      { answer: 'd. TIMING', score: 5 },
+      { answer: 'e. 내 얘길 들어봐', score: 2 }  ]
+  },
+  {
+    q: '14. 다음 사진의 주인공은?',
+    a: [
+      { answer: 'a. 지호', score: 2 },
+      { answer: 'b. 아린', score: 5 },
+      { answer: 'c. 승희', score: 2 },
+      { answer: 'd. 유아', score: 2 },
+      { answer: 'e. 효정', score: 2 },
+      { answer: 'f. 비니', score: 2 },
+      { answer: 'g. 미미', score: 2 }
     ]
   },
   {
-    q: '19. 오마이걸 공식 팬클럽 미라클은 몇기 까지 현재 공개 되었는지 고르시오.',
+    q: '15. 다음 곡을 듣고 이 곡을 부르지 않은 멤버를 고르시오',
     a: [
-      { answer: 'a. 1기', score: 2 },
-      { answer: 'b. 2기', score: 2 },
-      { answer: 'c. 3기', score: 5 },
-      { answer: 'd. 4기', score: 2 }]
-
+      { answer: 'a. 아린', score: 2 },
+      { answer: 'b. 지호', score: 2 },
+      { answer: 'c. 유아', score: 2 },
+      { answer: 'd. 승희', score: 5 }]
   },
   {
-    q: '20. 보너스 점수는 얼만큼 받고 싶나요? 후하게 드립니다.',
+    q: '16. 다음 사진에서 효정은 왜 효무룩하였는가?',
     a: [
-      { answer: 'a. 기본점수만 받겠습니다.', score: 5 },
-      { answer: 'b. 쥬라쥬라쥬라쥬라~ 점수좀 쥬라~ 10', score: 0 },
-      { answer: 'c. 이번엔 어려웠으니 20', score: 0 },
-      { answer: 'd. 그냥 화끈하게 100', score: 0 },
-      { answer: 'e. 개발자님 사랑해요~', score: 5 }  ]
+      { answer: 'a. 숫자 1을 몸으로 표현해야해서', score: 5 },
+      { answer: 'b. 효또몰에 걸려서', score: 2 },
+      { answer: 'c. 열심히 한 연기가 지호의 마음에 들지 못해서', score: 2 },
+      { answer: 'd. 행인 역을 맏게 되어서', score: 2 }
+    ]
+  },
+  {
+    q: '17. 다음 사진은 아린이 수능도시락 편이다. 그러면 이 때의 효무룩의 이유는?',
+    a: [
+      { answer: 'a. 어묵 얇게 썰어서 뭐라했다가 역으로 당했다.', score: 5 },
+      { answer: 'b. 재료 몰래 먹다가 들켰다.', score: 2 },
+      { answer: 'c. 소리 크게 내서 혼났다.', score: 2 },
+      { answer: 'd. 승희에게 맞았다', score: 2 }
+    ]
+  },
+  {
+    q: '18. 효정 : 멤버중에 나는 ㅇㅇ 만은 일등이다.' +
+        ' (오마이걸 속마음 방석퀴즈中）',
+    a: [
+      { answer: 'a. 노래', score: 2 },
+      { answer: 'b. 애교', score: 2 },
+      { answer: 'c. 긍정', score: 2 },
+      { answer: 'd. 웃음', score: 2 },
+      { answer: 'e. 치아', score: 2 },
+      { answer: 'f. 노잼', score: 5 },
+      { answer: 'g. 나이', score: 2 }
+    ]
+  },
+  {
+    q: '19. 다음을 듣고 알맞은 곡 명을 고르시오',
+    a: [
+      { answer: 'a. TIC TOC', score: 2 },
+      { answer: 'b. 미제', score: 5 },
+      { answer: 'c. 소나기', score: 2 },
+      { answer: 'd. NEON', score: 2 },
+      { answer: 'e. Illusion', score: 2 }
+    ]
+  },
+  {
+    q: '20. 테스트 고생하셨습니다. 보너스 점수를 드릴게요! 12/25에는 뭐하는날?',
+    a: [
+      { answer: 'a. 메리 크리스마스!', score: 5 },
+      { answer: 'b. 집에서 옴걸영상 보는 날~', score: 5 },
+      { answer: 'c. 연인과 즐거운 시간 보내는 날~', score: 4 },
+      { answer: 'd. 가요대전에서 옴걸 보는 날~', score: 5 },
+      { answer: 'e. 일하는 날~', score: 10 }  ]
   }
 ]
 
