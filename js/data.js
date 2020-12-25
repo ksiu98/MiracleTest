@@ -151,10 +151,10 @@ const qnaList = [
   {
     q: '15. 다음 곡을 듣고 이 곡을 부르지 않은 멤버의 대사를 고르시오',
     a: [
-      { answer: 'a. 꾸래!!', score: 2 },
+      { answer: 'a. 나 등불이야 뭐야!', score: 2 },
       { answer: 'b. 바보홍~', score: 2 },
       { answer: 'c. 니가 울어서 울잖아 ㅜㅜ', score: 2 },
-      { answer: 'd. 나 등불이야 뭐야!', score: 5 }]
+      { answer: 'd. 꾸래!!', score: 5 }]
   },
   {
     q: '16. 다음 사진에서 효정은 왜 효무룩하였는가?',
