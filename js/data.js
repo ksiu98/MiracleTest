@@ -133,8 +133,8 @@ const qnaList = [
       { answer: 'a. BUNGEE', score: 2 },
       { answer: 'b. 화이트', score: 2 },
       { answer: 'c. SNOW BALL', score: 2 },
-      { answer: 'd. TIMING', score: 5 },
-      { answer: 'e. 내 얘길 들어봐', score: 2 }  ]
+      { answer: 'd. TIMING', score: 2 },
+      { answer: 'e. 내 얘길 들어봐', score: 5 }  ]
   },
   {
     q: '14. 다음 사진의 주인공의 멘트는?',
