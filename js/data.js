@@ -137,24 +137,24 @@ const qnaList = [
       { answer: 'e. 내 얘길 들어봐', score: 2 }  ]
   },
   {
-    q: '14. 다음 사진의 주인공은?',
+    q: '14. 다음 사진의 주인공의 멘트는?',
     a: [
-      { answer: 'a. 지호', score: 2 },
-      { answer: 'b. 아린', score: 5 },
-      { answer: 'c. 승희', score: 2 },
-      { answer: 'd. 유아', score: 2 },
-      { answer: 'e. 효정', score: 2 },
-      { answer: 'f. 비니', score: 2 },
-      { answer: 'g. 미미', score: 2 }
+      { answer: 'a. 미라클에게 이런말 하기 싫은데...생각하자!', score: 2 },
+      { answer: 'b. 아아아아아악', score: 5 },
+      { answer: 'c. 야 너 진짜 돌았냐?', score: 2 },
+      { answer: 'd. 걱정쓰가 바닥에..', score: 2 },
+      { answer: 'e. 뿌엥', score: 2 },
+      { answer: 'f. 미미가 좋긔', score: 2 },
+      { answer: 'g. 안댸걘네~', score: 2 }
     ]
   },
   {
-    q: '15. 다음 곡을 듣고 이 곡을 부르지 않은 멤버를 고르시오',
+    q: '15. 다음 곡을 듣고 이 곡을 부르지 않은 멤버의 대사를 고르시오',
     a: [
-      { answer: 'a. 아린', score: 2 },
-      { answer: 'b. 지호', score: 2 },
-      { answer: 'c. 유아', score: 2 },
-      { answer: 'd. 승희', score: 5 }]
+      { answer: 'a. 꾸래!!', score: 2 },
+      { answer: 'b. 바보홍~', score: 2 },
+      { answer: 'c. 니가 울어서 울잖아 ㅜㅜ', score: 2 },
+      { answer: 'd. 나 등불이야 뭐야!', score: 5 }]
   },
   {
     q: '16. 다음 사진에서 효정은 왜 효무룩하였는가?',

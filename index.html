@@ -120,12 +120,15 @@
         document.querySelector('.cancel').addEventListener('click', function (idx){
           if (idx) {
             pic.setAttribute('src', '');
+            pic.setAttribute('height', '0');
             aud.setAttribute('src', '');
+
             return;
           }
         });
         document.querySelector('.mediadesc').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/mediadesc.png');
             return;
           }
@@ -133,6 +136,7 @@
 
         document.querySelector('.pic1').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/pic1.png');
             return;
           }
@@ -140,6 +144,7 @@
 
         document.querySelector('.pic2').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/pic2.png');
             return;
           }
@@ -147,6 +152,7 @@
 
         document.querySelector('.pic3').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
               pic.setAttribute('src', 'img/pic3.png');
             return;
           }
@@ -154,6 +160,7 @@
 
         document.querySelector('.pic4').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/pic4.png');
             return;
           }
@@ -161,18 +168,21 @@
 
         document.querySelector('.pic5').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/pic5.png');
             return;
           }
         });
         document.querySelector('.pic6').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/pic6.GIF');
             return;
           }
         });
         document.querySelector('.pic7').addEventListener('click', function (idx){
           if (idx) {
+            pic.setAttribute('height', 'auto');
             pic.setAttribute('src', 'img/pic7.GIF');
             return;
           }
