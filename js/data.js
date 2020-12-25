@@ -204,7 +204,7 @@ const qnaList = [
       { answer: 'b. 집에서 옴걸영상 보는 날~', score: 5 },
       { answer: 'c. 연인과 즐거운 시간 보내는 날~', score: 4 },
       { answer: 'd. 가요대전에서 옴걸 보는 날~', score: 5 },
-      { answer: 'e. 일하는 날~', score: 10 }  ]
+      { answer: 'e. 일하는 날~', score: 5 }  ]
   }
 ]
 
