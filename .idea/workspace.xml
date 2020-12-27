@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="정답 수정">
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1608821113277" duration="18223000" />
       <workItem from="1608873546191" duration="6702000" />
       <workItem from="1608906120891" duration="890000" />
-      <workItem from="1608908857755" duration="56000" />
+      <workItem from="1608908857755" duration="249000" />
+      <workItem from="1609073095644" duration="439000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608907085711</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="정답 수정">
+      <created>1608908932091</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1608908932091</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,10 +349,10 @@
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="648" y="245" key="RollbackChangesDialog/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608011678388" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1608907088501">
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1608908934513">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1608873586449" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1608908934513" />
     <state x="342" y="272" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1023@0.23.1792.1023" timestamp="1607517221855" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1024@0.23.1792.1024" timestamp="1607400309526" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1026@0.23.1792.1026" timestamp="1607423017204" />
