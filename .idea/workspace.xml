@@ -19,9 +19,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="">
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="오디오 볼륨 수정 3차">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/calc.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/calc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/qna.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/qna.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/result.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/answertable.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/answertable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/aud1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/aud2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud2.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/aud3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/aud4.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud4.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pic3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic6.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pic7.GIF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +107,11 @@
       <workItem from="1608906120891" duration="890000" />
       <workItem from="1608908857755" duration="249000" />
       <workItem from="1609073095644" duration="439000" />
+      <workItem from="1609073593301" duration="919000" />
+      <workItem from="1609150239798" duration="1627000" />
+      <workItem from="1609153186007" duration="409000" />
+      <workItem from="1609242697459" duration="1333000" />
+      <workItem from="1609342620237" duration="7361000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -302,7 +330,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608908932091</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="오디오 볼륨 수정">
+      <created>1609073610106</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1609073610106</updated>
+    </task>
+    <task id="LOCAL-00033" summary="오디오 볼륨 수정 2차">
+      <created>1609073674397</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1609073674397</updated>
+    </task>
+    <task id="LOCAL-00034" summary="오디오 볼륨 수정 3차">
+      <created>1609073863809</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1609073863809</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,16 +391,20 @@
     <MESSAGE value="사진 접기 오류 수정 2차" />
     <MESSAGE value="문제 수정" />
     <MESSAGE value="정답 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="정답 수정" />
+    <MESSAGE value="오디오 볼륨 수정" />
+    <MESSAGE value="오디오 볼륨 수정 2차" />
+    <MESSAGE value="오디오 볼륨 수정 3차" />
+    <option name="LAST_COMMIT_MESSAGE" value="오디오 볼륨 수정 3차" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="245" key="RollbackChangesDialog" timestamp="1608011678388">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="648" y="245" key="RollbackChangesDialog/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608011678388" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1608908934513">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state x="342" y="273" key="Vcs.Push.Dialog.v2" timestamp="1609073866305">
+      <screen x="0" y="23" width="1792" height="1027" />
     </state>
+    <state x="342" y="273" key="Vcs.Push.Dialog.v2/0.23.1792.1027@0.23.1792.1027" timestamp="1609073866305" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1608908934513" />
     <state x="342" y="272" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1023@0.23.1792.1023" timestamp="1607517221855" />
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1024@0.23.1792.1024" timestamp="1607400309526" />
@@ -366,9 +419,10 @@
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="363" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.23.1024.745/0.23.1792.1026@0.23.1792.1026" timestamp="1607403244462" />
-    <state x="581" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1608834979744">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state x="581" y="249" width="670" height="673" key="search.everywhere.popup" timestamp="1609343378277">
+      <screen x="0" y="23" width="1792" height="1025" />
     </state>
+    <state x="581" y="249" width="670" height="673" key="search.everywhere.popup/1792.23.1180.797/0.23.1792.1025@0.23.1792.1025" timestamp="1609343378277" />
     <state x="581" y="250" width="670" height="676" key="search.everywhere.popup/1792.23.1180.797/0.23.1792.1031@0.23.1792.1031" timestamp="1608834979744" />
   </component>
 </project>

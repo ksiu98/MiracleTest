@@ -26,9 +26,9 @@
   opacity: 0;
 }
 .pin {
-  width: 30px; 
+  width: 30px;
   height: 30px;
-  background-image: url('../img/pin.svg');
+  background-image: url('../img/pin.png');
   background-size: cover;
   animation: fade-in 0.5s ease-out 2.6s forwards, 
           going-down 0.5s ease-out 2.6s forwards;
@@ -39,12 +39,12 @@
   width: 90%;
   height: 50px;
   border-radius: 50px;
-/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2f7336+0,aa3a38+100 */
-background: #2f7336; /* Old browsers */
-background: -moz-linear-gradient(left,  #2f7336 0%, #aa3a38 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  #2f7336 0%,#aa3a38 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  #2f7336 0%,#aa3a38 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f7336', endColorstr='#aa3a38',GradientType=1 ); /* IE6-9 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9cce2+0,c0dfe5+50,ede7cb+100 */
+background: rgb(249,204,226); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(249,204,226,1) 0%, rgba(192,223,229,1) 50%, rgba(237,231,203,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(249,204,226,1) 0%,rgba(192,223,229,1) 50%,rgba(237,231,203,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(249,204,226,1) 0%,rgba(192,223,229,1) 50%,rgba(237,231,203,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9cce2', endColorstr='#ede7cb',GradientType=1 ); /* IE6-9 */
   animation: fade-in 0.5s ease-out 2.5s forwards,
           going-down 0.5s ease-out 2.5s forwards;
   opacity: 0;
@@ -162,6 +162,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f7336', end
 }
 #intro-box {
   padding-top: 20px;
+}
+#artintro-box {
+  padding-top: 20px;
+}
+.artpro_pic {
+  margin: 0 auto;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-image: url('../img/artpropic.png');
+  background-size: cover;
+  transition: all 0.2s ease-out;
 }
 .pro_pic {
   margin: 0 auto;
