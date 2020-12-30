@@ -174,8 +174,8 @@ const qnaList = [
     q: '20. 다음 가사를 듣고 알맞은 곡을 고르시오',
     a: [
       { answer: 'a. 살짝 설렜어', score: 2 },
-      { answer: 'b. ', score: 2 },
-      { answer: 'c. ', score: 2 },
+      { answer: 'b. DESTINY', score: 2 },
+      { answer: 'c. I FOUND LOVE', score: 2 },
       { answer: 'd. CHECKMATE', score: 5 } ]
   }
 ]

@@ -19,31 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="오디오 볼륨 수정 3차">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/calc.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/calc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/qna.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/qna.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/result.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/result.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/answertable.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/answertable.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aud1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud1.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aud2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aud3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud3.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aud4.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/img/aud4.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pic3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic6.GIF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pic7.GIF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="내 귀를 의심해 버전">
       <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +87,7 @@
       <workItem from="1609150239798" duration="1627000" />
       <workItem from="1609153186007" duration="409000" />
       <workItem from="1609242697459" duration="1333000" />
-      <workItem from="1609342620237" duration="7361000" />
+      <workItem from="1609342620237" duration="7810000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -351,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609073863809</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="내 귀를 의심해 버전">
+      <created>1609351610816</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1609351610816</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,15 +377,16 @@
     <MESSAGE value="오디오 볼륨 수정" />
     <MESSAGE value="오디오 볼륨 수정 2차" />
     <MESSAGE value="오디오 볼륨 수정 3차" />
-    <option name="LAST_COMMIT_MESSAGE" value="오디오 볼륨 수정 3차" />
+    <MESSAGE value="내 귀를 의심해 버전" />
+    <option name="LAST_COMMIT_MESSAGE" value="내 귀를 의심해 버전" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="245" key="RollbackChangesDialog" timestamp="1608011678388">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="648" y="245" key="RollbackChangesDialog/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608011678388" />
-    <state x="342" y="273" key="Vcs.Push.Dialog.v2" timestamp="1609073866305">
-      <screen x="0" y="23" width="1792" height="1027" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1609351615226">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="342" y="273" key="Vcs.Push.Dialog.v2/0.23.1792.1027@0.23.1792.1027" timestamp="1609073866305" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1608908934513" />
@@ -413,7 +397,7 @@
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608013650155" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1028@0.23.1792.1028" timestamp="1608007109220" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1030@0.23.1792.1030" timestamp="1608014450550" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1031@0.23.1792.1031" timestamp="1608907088501" />
+    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1031@0.23.1792.1031" timestamp="1609351615226" />
     <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1033@0.23.1792.1033" timestamp="1608872909377" />
     <state x="363" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607403244462">
       <screen x="0" y="23" width="1792" height="1026" />
