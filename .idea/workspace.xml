@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="내 귀를 의심해 버전">
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="랭킹 시스템 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking.php" beforeDir="false" afterPath="$PROJECT_DIR$/ranking.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,7 +104,7 @@
       <workItem from="1610859903944" duration="255000" />
       <workItem from="1610880342823" duration="6924000" />
       <workItem from="1610889525174" duration="112000" />
-      <workItem from="1610889654930" duration="4637000" />
+      <workItem from="1610889654930" duration="5987000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -357,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609352041072</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="랭킹 시스템 추가">
+      <created>1610897072221</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610897072221</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +384,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="텍스트 수정" />
     <MESSAGE value="링크 수정" />
     <MESSAGE value="20문제" />
     <MESSAGE value="점수분포바 수정" />
@@ -401,12 +408,7 @@
     <MESSAGE value="오디오 볼륨 수정 2차" />
     <MESSAGE value="오디오 볼륨 수정 3차" />
     <MESSAGE value="내 귀를 의심해 버전" />
-    <option name="LAST_COMMIT_MESSAGE" value="내 귀를 의심해 버전" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="736" y="174" key="SettingsEditor" timestamp="1610889632160">
-      <screen x="0" y="23" width="1792" height="1033" />
-    </state>
-    <state x="736" y="174" key="SettingsEditor/1792.23.1180.797/0.23.1792.1033@0.23.1792.1033" timestamp="1610889632160" />
+    <MESSAGE value="랭킹 시스템 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="랭킹 시스템 추가" />
   </component>
 </project>
