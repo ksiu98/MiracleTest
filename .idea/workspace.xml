@@ -20,18 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="내 귀를 의심해 버전">
-      <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="cf43265c-8382-41b6-8f75-5a35cd6f3da5" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1lMHqybdnvgarYlRbU78QNHo1PR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +52,11 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +96,14 @@
       <workItem from="1609150239798" duration="1627000" />
       <workItem from="1609153186007" duration="409000" />
       <workItem from="1609242697459" duration="1333000" />
-      <workItem from="1609342620237" duration="7810000" />
+      <workItem from="1609342620237" duration="7892000" />
+      <workItem from="1610798597741" duration="24000" />
+      <workItem from="1610857667036" duration="1445000" />
+      <workItem from="1610859856595" duration="44000" />
+      <workItem from="1610859903944" duration="255000" />
+      <workItem from="1610880342823" duration="6924000" />
+      <workItem from="1610889525174" duration="112000" />
+      <workItem from="1610889654930" duration="4637000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -334,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609351610816</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="내 귀를 의심해 버전">
+      <created>1609352041072</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1609352041072</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,32 +404,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="내 귀를 의심해 버전" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="245" key="RollbackChangesDialog" timestamp="1608011678388">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="736" y="174" key="SettingsEditor" timestamp="1610889632160">
+      <screen x="0" y="23" width="1792" height="1033" />
     </state>
-    <state x="648" y="245" key="RollbackChangesDialog/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608011678388" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2" timestamp="1609351615226">
-      <screen x="0" y="23" width="1792" height="1031" />
-    </state>
-    <state x="342" y="273" key="Vcs.Push.Dialog.v2/0.23.1792.1027@0.23.1792.1027" timestamp="1609073866305" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1608908934513" />
-    <state x="342" y="272" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1023@0.23.1792.1023" timestamp="1607517221855" />
-    <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1024@0.23.1792.1024" timestamp="1607400309526" />
-    <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1026@0.23.1792.1026" timestamp="1607423017204" />
-    <state x="342" y="273" key="Vcs.Push.Dialog.v2/1792.23.1024.745/0.23.1792.1028@0.23.1792.1028" timestamp="1607430408971" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1026@0.23.1792.1026" timestamp="1608013650155" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1028@0.23.1792.1028" timestamp="1608007109220" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1102.719/0.23.1792.1030@0.23.1792.1030" timestamp="1608014450550" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1031@0.23.1792.1031" timestamp="1609351615226" />
-    <state x="342" y="274" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1033@0.23.1792.1033" timestamp="1608872909377" />
-    <state x="363" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607403244462">
-      <screen x="0" y="23" width="1792" height="1026" />
-    </state>
-    <state x="363" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.23.1024.745/0.23.1792.1026@0.23.1792.1026" timestamp="1607403244462" />
-    <state x="581" y="249" width="670" height="673" key="search.everywhere.popup" timestamp="1609343378277">
-      <screen x="0" y="23" width="1792" height="1025" />
-    </state>
-    <state x="581" y="249" width="670" height="673" key="search.everywhere.popup/1792.23.1180.797/0.23.1792.1025@0.23.1792.1025" timestamp="1609343378277" />
-    <state x="581" y="250" width="670" height="676" key="search.everywhere.popup/1792.23.1180.797/0.23.1792.1031@0.23.1792.1031" timestamp="1608834979744" />
+    <state x="736" y="174" key="SettingsEditor/1792.23.1180.797/0.23.1792.1033@0.23.1792.1033" timestamp="1610889632160" />
   </component>
 </project>

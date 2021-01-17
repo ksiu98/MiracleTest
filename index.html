@@ -300,13 +300,20 @@
         </a>
       </div>
       <script>
-        function answertable(){
-          document.getElementById('abc').innerHTML='<img src="img/answertable.png" width=80% height=80%>'
-        }
+        function ranking(){
+          document.getElementById('frm').submit(); // 입력한값을 서버에 전달하는 함수
+          return false;
+        };
       </script>
-      <p id="abc">정답을 보고 싶다면 밑의 버튼을 클릭하세요!</p><br>
-      <button class="go-origin btn" onclick=answertable()>정답 보기</button>
-      <hr>
+      <p id="ranking">순위가 보고 싶다면 닉네임과 점수를 입력하고
+        <br>밑의 버튼을 클릭하세요!</p><br>
+      <br>
+      <form action="ranking.php" id="frm" method="post" target="_blank">
+        <!-- php 파일 만들어서 html과 연동. 여기서 target은 새창에서 열리도록하는것 -->
+        <p><input type="text" name="name" placeholder="닉네임"></p>
+        <p><input type="text" name="score" placeholder="점수 (ex)90"></p>
+        <button class="go-origin btn" onclick=ranking() >순위 보기</button>
+      </form>      <hr>
       <div id="artintro-box">
         <div class="art-name">ARTIST</div>
         <div class="artpro_pic"></div>
