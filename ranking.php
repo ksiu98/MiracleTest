@@ -17,8 +17,8 @@ $sql = "
   INSERT INTO score
     (name, score)
     VALUES(
-      '{$_GET['name']}',
-      '{$_GET['score']}'
+      '{$_POST['name']}',
+      '{$_POST['score']}'
     )
 "; // html에서 form의 메소드를 post로 해서 저렇게 나타냄
 $result = mysqli_query($conn, $sql);
