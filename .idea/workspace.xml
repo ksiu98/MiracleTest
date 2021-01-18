@@ -101,7 +101,7 @@
       <workItem from="1610859903944" duration="255000" />
       <workItem from="1610880342823" duration="6924000" />
       <workItem from="1610889525174" duration="112000" />
-      <workItem from="1610889654930" duration="7993000" />
+      <workItem from="1610889654930" duration="8330000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -397,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610935218136</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="html 테스트">
+      <created>1610935587387</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1610935587388</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +423,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="점수분포바 수정" />
     <MESSAGE value="20문제 버전 최종수정" />
     <MESSAGE value="정오표 추가" />
     <MESSAGE value="정오표 버튼" />
@@ -441,6 +447,7 @@
     <MESSAGE value="랭킹 시스템 추가" />
     <MESSAGE value="405 NOT ALLOWED 오류 (post -&gt; get 방식으로 바꿈)" />
     <MESSAGE value="405 NOT ALLOWED 오류" />
-    <option name="LAST_COMMIT_MESSAGE" value="405 NOT ALLOWED 오류" />
+    <MESSAGE value="html 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="html 테스트" />
   </component>
 </project>
