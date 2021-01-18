@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="405 NOT ALLOWED 오류">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phptest.html" beforeDir="false" afterPath="$PROJECT_DIR$/phptest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ranking.php" beforeDir="false" afterPath="$PROJECT_DIR$/ranking.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
@@ -105,7 +106,9 @@
       <workItem from="1610859903944" duration="255000" />
       <workItem from="1610880342823" duration="6924000" />
       <workItem from="1610889525174" duration="112000" />
-      <workItem from="1610889654930" duration="10649000" />
+      <workItem from="1610889654930" duration="11586000" />
+      <workItem from="1610940797807" duration="1439000" />
+      <workItem from="1610980196332" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -422,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610935842236</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="405 NOT ALLOWED 오류">
+      <created>1610938382790</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1610938382790</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
