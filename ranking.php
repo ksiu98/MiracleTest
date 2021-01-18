@@ -8,17 +8,17 @@ $conn = mysqli_connect(
         '3306');
 # title, description 이라는 사용자가 입력한 정보를 그대로 php에 입력하는 행위는 보안에 취약, 따라서 관리 필요
 
-//$filtered = array(
-//    'name' => mysqli_real_escape_string($conn, $_POST['name']),
-//    'score' => mysqli_real_escape_string($conn, $_POST['score'])
-//);
+$filtered = array(
+    'name' => mysqli_real_escape_string($conn, $_POST['name']),
+    'score' => mysqli_real_escape_string($conn, $_POST['score'])
+);
 // sql연결할때 호스트네임을 로컬호스트:포트, 맨밑에 포트값을 입력해주니 제대로 연동이 되엇슴.
 $sql = "
   INSERT INTO score
     (name, score)
     VALUES(
-      '{$_POST['name']}',
-      '{$_POST['score']}'
+      '{$filtered['name']}',
+      '{$filtered['score']}'
     )
 "; // html에서 form의 메소드를 post로 해서 저렇게 나타냄
 $result = mysqli_query($conn, $sql);
