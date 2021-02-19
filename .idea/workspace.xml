@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="405 NOT ALLOWED 오류">
+    <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="개발일지 추가 및 readme 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,8 @@
       <workItem from="1610940797807" duration="1439000" />
       <workItem from="1610980196332" duration="1831000" />
       <workItem from="1612882722348" duration="47000" />
-      <workItem from="1612882823601" duration="233000" />
+      <workItem from="1612882823601" duration="299000" />
+      <workItem from="1613741083137" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="텍스트 수정">
       <created>1607400673309</created>
@@ -440,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610980263641</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="405 NOT ALLOWED 오류">
+      <created>1612883070633</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1612883070633</updated>
+    </task>
+    <task id="LOCAL-00049" summary="개발일지 추가 및 readme 수정">
+      <created>1612883095761</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1612883095761</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +473,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20문제 버전 최종수정" />
     <MESSAGE value="정오표 추가" />
     <MESSAGE value="정오표 버튼" />
     <MESSAGE value="사이트 방문자수 추적 태그 삽입" />
@@ -484,6 +497,13 @@
     <MESSAGE value="405 NOT ALLOWED 오류 (post -&gt; get 방식으로 바꿈)" />
     <MESSAGE value="html 테스트" />
     <MESSAGE value="405 NOT ALLOWED 오류" />
-    <option name="LAST_COMMIT_MESSAGE" value="405 NOT ALLOWED 오류" />
+    <MESSAGE value="개발일지 추가 및 readme 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="개발일지 추가 및 readme 수정" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="275" key="Vcs.Push.Dialog.v2" timestamp="1612883104650">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="382" y="275" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1028@0.23.1792.1028" timestamp="1612883104650" />
   </component>
 </project>
