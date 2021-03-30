@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="개발일지 추가 및 readme 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +109,11 @@
       <workItem from="1610980196332" duration="1831000" />
       <workItem from="1612882722348" duration="47000" />
       <workItem from="1612882823601" duration="299000" />
-      <workItem from="1613741083137" duration="289000" />
-    </task>
-    <task id="LOCAL-00001" summary="텍스트 수정">
-      <created>1607400673309</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607400673310</updated>
+      <workItem from="1613741083137" duration="415000" />
+      <workItem from="1615727106789" duration="1269000" />
+      <workItem from="1615801180321" duration="545000" />
+      <workItem from="1615885308230" duration="1950000" />
+      <workItem from="1616039647255" duration="31000" />
     </task>
     <task id="LOCAL-00002" summary="텍스트 수정">
       <created>1607411136838</created>
@@ -454,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612883095761</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="개발일지 일본어 번역">
+      <created>1613741420248</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1613741420249</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="정오표 추가" />
     <MESSAGE value="정오표 버튼" />
     <MESSAGE value="사이트 방문자수 추적 태그 삽입" />
     <MESSAGE value="사진 및 음악 문제 1차 버전" />
@@ -498,12 +501,14 @@
     <MESSAGE value="html 테스트" />
     <MESSAGE value="405 NOT ALLOWED 오류" />
     <MESSAGE value="개발일지 추가 및 readme 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="개발일지 추가 및 readme 수정" />
+    <MESSAGE value="개발일지 일본어 번역" />
+    <option name="LAST_COMMIT_MESSAGE" value="개발일지 일본어 번역" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="382" y="275" key="Vcs.Push.Dialog.v2" timestamp="1612883104650">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state x="382" y="275" key="Vcs.Push.Dialog.v2" timestamp="1613741423905">
+      <screen x="0" y="23" width="1792" height="1026" />
     </state>
+    <state x="382" y="275" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1613741423905" />
     <state x="382" y="275" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1028@0.23.1792.1028" timestamp="1612883104650" />
   </component>
 </project>
