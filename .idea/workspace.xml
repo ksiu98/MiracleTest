@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="783908b0-e2f7-4617-b53c-67b2767c8b3a" name="Default Changelist" comment="개발일지 수정 2차">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML 웹테스트 만들기.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HTML 웹테스트 만들기.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLウェブテスト制作.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLウェブテスト制作.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +116,8 @@
       <workItem from="1615885308230" duration="1950000" />
       <workItem from="1616039647255" duration="31000" />
       <workItem from="1617117916328" duration="737000" />
-    </task>
-    <task id="LOCAL-00003" summary="링크 수정">
-      <created>1607411382503</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1607411382503</updated>
+      <workItem from="1622278079836" duration="45000" />
+      <workItem from="1622867497309" duration="5000" />
     </task>
     <task id="LOCAL-00004" summary="링크 수정">
       <created>1607411821202</created>
@@ -458,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617118067626</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="개발일지 수정 2차">
+      <created>1622278113822</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1622278113823</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,11 +509,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="개발일지 수정 2차" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="248" y="248" key="Vcs.Push.Dialog.v2" timestamp="1617118085329">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state x="248" y="247" key="Vcs.Push.Dialog.v2" timestamp="1622278116831">
+      <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="382" y="275" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1613741423905" />
     <state x="248" y="248" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1617118085329" />
-    <state x="382" y="275" key="Vcs.Push.Dialog.v2/1792.23.1180.797/0.23.1792.1028@0.23.1792.1028" timestamp="1612883104650" />
+    <state x="248" y="247" key="Vcs.Push.Dialog.v2/1792.23.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1622278116831" />
+    <state x="569" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622278096558">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="569" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.23.1920.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1622278096558" />
   </component>
 </project>
